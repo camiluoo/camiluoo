@@ -1,11 +1,11 @@
 ### Eaeee! Sou o Vinicius Camilo, ou só Camilo 👋
 
-- 👨‍🎓 Análise e desenvolvimento de sistemas / banco de dados
+- 👨‍🎓 Análise e desenvolvimento de sistemas / banco de dados | Trainee de BI
 - 👶 Começando agora
-- 🌱 Estudando HTML 5, CSS e JavaScript
+- 🌱 Estudando POWER BI / SQL
 - 💬 Me mande dicas para melhorar meus estudos
 - 📫 Me mande um e-mal: dev.vinicius.camilo@gmail.com
-- ⚡ Vou entrar no mundo do Front-end
+- ⚡ Vou entrar no mundo do business intelligence
 
 <div>
   <a href="https://github.com/camiluoo">
