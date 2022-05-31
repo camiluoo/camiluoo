@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Análise e desenvolvimento de sistemas / banco de dados | Trainee de BI
 - 👶 Começando agora
-- 🌱 Estudando POWER BI / SQL
+- 🌱 Estudando POWER BI / DAX / SQL
 - 💬 Me mande dicas para melhorar meus estudos
 - 📫 Me mande um e-mal: dev.vinicius.camilo@gmail.com
 - ⚡ Vou entrar no mundo do business intelligence
